@@ -1,6 +1,6 @@
 # NOUS - DIY HOME IMPROVEMENT HUB
 
-![Logo](https://github.com/VIGNESHVARA2004/NOUS-DIY-HOME-IMPROVEMENT-HUB-APP/assets/110531516/4962eeb4-65ad-42da-84b2-4e983d58a7d7)
+<img src="https://github.com/VIGNESHVARA2004/NOUS-DIY-HOME-IMPROVEMENT-HUB-APP/assets/110531516/4962eeb4-65ad-42da-84b2-4e983d58a7d7" alt="NOUS Logo" width="400" height="200">
 
 ## Overview
 
